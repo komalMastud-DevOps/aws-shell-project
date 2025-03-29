@@ -1,0 +1,15 @@
+# Ignore system files
+*.log
+*.swp
+*.bak
+
+# Ignore sensitive information and unnecessary files
+.ssh/
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gitconfig
+.viminfo
+.aws/
+.awscliv2.zip
